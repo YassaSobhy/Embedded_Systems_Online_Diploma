@@ -1,29 +1,6 @@
 # Embedded Systems Learning Path
 
-
-## Table of Contents
-
-- [Unit 1: Understanding the System](#unit-1-understanding-the-system)
-  - Install the Tools
-## C Programming
-- [Unit 2: C Programming](#unit-2-c-programming)
-  - [Lesson 1: Introduction to Embedded System](./unit2/lesson1) ![Progress](https://progress-bar.dev/100/?title=completed)
-  - [Lesson 2: Git Tutorial](./unit2/lesson2) ![Progress](https://progress-bar.dev/100/?title=Completed)
-    - Version Control Systems (VCS)
-    - Git Tutorial
-  - [Lesson 3: C Basics](./unit2/lesson3) ![Progress](https://progress-bar.dev/100/?title=Completed)
-    - C Basics
-    - C Conditions & Loops
-  - [Lesson 4: C Array & String](./unit2/lesson4) ![Progress](https://progress-bar.dev/100/?title=Completed)
-  - [Lesson 5: C Functions](./unit2/lesson5) ![Progress](https://progress-bar.dev/0/?title=not+started)
-    - Difference between Variable Definition and Declaration
-    - C Functions
-    - C Storage Classes
-    - Inline Assembly
-    - Inline Function
-  - Mid Term 1 - Exam ![Progress](https://progress-bar.dev/0/?title=not+started)
-
-## Course Content
+## C programming ![Progress](https://progress-bar.dev/25/?title=in+progess)
 
 ### Unit 1: Understanding the System
 
@@ -50,6 +27,8 @@ Explore arrays and strings in C programming.
 #### Lesson 5: C Functions ![Progress](https://progress-bar.dev/0/?title=not+started)
 
 Dive deeper into C functions, storage classes, inline assembly, and inline functions.
+
+#### Mid Term 1 - Exam ![Progress](https://progress-bar.dev/0/?title=not+started)
 
 #### Lesson 6: Structures, Union, Enum ![Progress](https://progress-bar.dev/0/?title=not+started)
 
