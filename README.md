@@ -5,7 +5,7 @@
 
 - [Unit 1: Understanding the System](#unit-1-understanding-the-system)
   - Install the Tools
-
+## C Programming
 - [Unit 2: C Programming](#unit-2-c-programming)
   - [Lesson 1: Introduction to Embedded System](./unit2/lesson1) ![Progress](https://progress-bar.dev/100/?title=completed)
   - [Lesson 2: Git Tutorial](./unit2/lesson2) ![Progress](https://progress-bar.dev/100/?title=Completed)
@@ -63,4 +63,4 @@ Understand macros, `#pragma`, `#` & `##`, `#ifdef`, `#endif`, constants, and mor
 
 Master the concept of pointers, pointer types, and various pointer tricks.
 
-
+## Embedded C ![Progress](https://progress-bar.dev/0/?title=not+started)
