@@ -8,7 +8,7 @@
 
 - [Unit 2: C Programming](#unit-2-c-programming)
   - [Lesson 1: Introduction to Embedded System](./unit2/lesson1) ![Progress](https://progress-bar.dev/20/?title=completed)
-  - [Lesson 2: Git Tutorial](./unit2/lesson2) ![Progress](https://progress-bar.dev/40/?title=in+progress)
+  - [Lesson 2: Git Tutorial](./unit2/lesson2) ![Progress](https://progress-bar.dev/100/?title=Completed)
     - Version Control Systems (VCS)
     - Git Tutorial
   - [Lesson 3: C Basics](./unit2/lesson3) ![Progress](https://progress-bar.dev/60/?title=upcoming)
