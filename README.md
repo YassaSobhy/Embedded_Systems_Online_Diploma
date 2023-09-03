@@ -1,6 +1,6 @@
 # Embedded Systems Learning Path
 
-## C programming ![Progress](https://progress-bar.dev/25/?title=in+progess)
+## C programming ![Progress](https://progress-bar.dev/35/?title=in+progess)
 
 ### Unit 1: Understanding the System  
 
