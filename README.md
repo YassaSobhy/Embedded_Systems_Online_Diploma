@@ -24,7 +24,7 @@ Understand the fundamentals of C programming, covering basics and conditions & l
 
 Explore arrays and strings in C programming.
 
-#### Lesson 5: C Functions ![Progress](https://progress-bar.dev/0/?title=not+started)
+#### Lesson 5: C Functions ![Progress](https://progress-bar.dev/100/?title=completed)
 
 Dive deeper into C functions, storage classes, inline assembly, and inline functions.
 
