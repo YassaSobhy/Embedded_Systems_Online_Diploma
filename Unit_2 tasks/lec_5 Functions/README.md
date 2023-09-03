@@ -1,2 +1,2 @@
-#lec_5
-##C FUNCTIONS
+# lec_5
+## C_FUNCTIONS
