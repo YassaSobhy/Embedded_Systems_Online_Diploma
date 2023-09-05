@@ -28,7 +28,7 @@ Explore arrays and strings in C programming.
 
 Dive deeper into C functions, storage classes, inline assembly, and inline functions.
 
-#### Mid Term 1 - Exam ![Progress](https://progress-bar.dev/100/?title=Completed)
+#### Mid Term 1 - Exam ![Progress](https://progress-bar.dev/100/?title=completed)
 
 #### Lesson 6: Structures, Union, Enum ![Progress](https://progress-bar.dev/0/?title=not+started)
 
