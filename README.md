@@ -1,6 +1,6 @@
 # Embedded Systems Learning Path
 
-## C programming ![Progress](https://progress-bar.dev/45/?title=in+progess)
+## C programming ![Progress](https://progress-bar.dev/60/?title=in+progess)
 
 ### Unit 1: Understanding the System  
 
@@ -30,7 +30,7 @@ Dive deeper into C functions, storage classes, inline assembly, and inline funct
 
 #### Mid Term 1 - Exam ![Progress](https://progress-bar.dev/100/?title=completed)
 
-#### Lesson 6: Structures, Union, Enum ![Progress](https://progress-bar.dev/0/?title=not+started)
+#### Lesson 6: Structures, Union, Enum ![Progress](https://progress-bar.dev/100/?title=complited)
 
 Learn about structures, unions, and enumerations in C programming.
 
