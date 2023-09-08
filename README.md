@@ -30,7 +30,7 @@ Dive deeper into C functions, storage classes, inline assembly, and inline funct
 
 #### Mid Term 1 - Exam ![Progress](https://progress-bar.dev/100/?title=completed)
 
-#### Lesson 6: Structures, Union, Enum ![Progress](https://progress-bar.dev/100/?title=complited)
+#### Lesson 6: Structures, Union, Enum ![Progress](https://progress-bar.dev/100/?title=completed)
 
 Learn about structures, unions, and enumerations in C programming.
 
