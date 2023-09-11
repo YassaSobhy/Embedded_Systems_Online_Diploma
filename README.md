@@ -1,6 +1,6 @@
 # Embedded Systems Learning Path
 
-## C programming ![Progress](https://progress-bar.dev/60/?title=in+progess)
+## C programming ![Progress](https://progress-bar.dev/100/?title=completed)
 
 ### Unit 1: Understanding the System  
 
@@ -34,11 +34,11 @@ Dive deeper into C functions, storage classes, inline assembly, and inline funct
 
 Learn about structures, unions, and enumerations in C programming.
 
-#### Lesson 7: Pre-processor Directives in C ![Progress](https://progress-bar.dev/0/?title=not+started)
+#### Lesson 7: Pre-processor Directives in C ![Progress](https://progress-bar.dev/100/?title=completed)
 
 Understand macros, `#pragma`, `#` & `##`, `#ifdef`, `#endif`, constants, and more.
 
-#### Lesson 8: C Pointers ![Progress](https://progress-bar.dev/0/?title=not+started)
+#### Lesson 8: C Pointers ![Progress](https://progress-bar.dev/100/?title=completed)
 
 Master the concept of pointers, pointer types, and various pointer tricks.
 
