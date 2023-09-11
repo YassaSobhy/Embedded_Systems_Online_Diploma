@@ -8,7 +8,7 @@ In this unit, we'll get acquainted with the system and set up the necessary tool
 
 ### Unit 2: C Programming
 
-#### Lesson 1: Introduction to Embedded System ![Progress](https://progress-bar.dev/100/?title=completed)
+#### Lesson 1: Introduction to Embedded System ![Progress](https://progress-bar.dev/100/?title=completed) 
 
 This lesson provides an introduction to the world of embedded systems.
 
