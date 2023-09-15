@@ -43,8 +43,13 @@ Understand macros, `#pragma`, `#` & `##`, `#ifdef`, `#endif`, constants, and mor
 Master the concept of pointers, pointer types, and various pointer tricks.
 
 ## Embedded C ![Progress](https://progress-bar.dev/0/?title=not+started)
-.not started
-.
-.
-.
-.
+
+#### Lesson 1 :   ![Progress](https://progress-bar.dev/100/?title=completed)
+
+#### Lesson 2:    ![Progress](https://progress-bar.dev/0/?title=not+started)
+
+#### Lesson 3:    ![Progress](https://progress-bar.dev/0/?title=not+started)
+
+#### Lesson 4:    ![Progress](https://progress-bar.dev/0/?title=not+started)
+
+#### Lesson 5:    ![Progress](https://progress-bar.dev/0/?title=not+started)
