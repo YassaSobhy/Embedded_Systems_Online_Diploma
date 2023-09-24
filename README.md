@@ -46,9 +46,9 @@ Master the concept of pointers, pointer types, and various pointer tricks.
 
 #### Lesson 1 :   ![Progress](https://progress-bar.dev/100/?title=Completed)
 
-#### Lesson 2:    ![Progress](https://progress-bar.dev/0/?title=not+started)
+#### Lesson 2:    ![Progress](https://progress-bar.dev/100/?title=Completed)
 
-#### Lesson 3:    ![Progress](https://progress-bar.dev/0/?title=not+started)
+#### Lesson 3:    ![Progress](https://progress-bar.dev/100/?title=Completed)
 
 #### Lesson 4:    ![Progress](https://progress-bar.dev/0/?title=not+started)
 
