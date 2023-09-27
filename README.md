@@ -5,7 +5,7 @@
 ### Unit 1: Understanding the System  
 
 In this unit, we'll get acquainted with the system and set up the necessary tools. ![Progress](https://progress-bar.dev/100/?title=completed)
-
+ 
 ### Unit 2: C Programming
 
 #### Lesson 1: Introduction to Embedded System ![Progress](https://progress-bar.dev/100/?title=completed) 
